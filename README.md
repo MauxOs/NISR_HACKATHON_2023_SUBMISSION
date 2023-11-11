@@ -4,7 +4,7 @@ This repository contains R shiny app, readme file, video and two datasets used t
 
 _____________________________________________________CPI Dashboard_______________________________________________________
 
-![Dashboard Screenshot ](https://github.com/MauxOs/NISR_HACKATHON_2023_SUBMISSION/assets/150527654/cd2c6c23-ed38-4b8f-b279-4a0b6aac7756)
+![Dashboard Screenshot ](https://github.com/MauxOs/NISR_HACKATHON_2023_SUBMISSION/assets/150527654/8f904e5e-0e7d-4590-ab54-c32140cde8e3)
 
 Welcome to the CPI Dashboard! This interactive Shiny dashboard allows you to explore the trends in the Consumer Price Index (CPI) and the percentage contributions of various variables in both rural and urban economies.
 
