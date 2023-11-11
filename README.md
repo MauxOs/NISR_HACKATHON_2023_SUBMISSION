@@ -22,7 +22,7 @@ Follow these steps to set up and explore the CPI Dashboard:
 
 1. git clone: https://github.com/MauxOs/NISR_HACKATHON_2023_SUBMISSION
 
-2. You will find five 5 files such as app.R, video.gif, README file and excel files contaning used data.
+2. You will find five 5 files such as app.R, Video_NISR_HACKATHON_DASHBOARD.webm, README file and excel files contaning used data.
 
 3. Main R packages to be installed are: "shiny", "plotly", "ggplot2", "tidyverse", "openxlsx". But don't worry we have included them within R script to ease your job.
 
